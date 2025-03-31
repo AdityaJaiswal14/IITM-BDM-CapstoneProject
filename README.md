@@ -1,10 +1,11 @@
-# IITM_BDMCapstoneProject
+# IITM-BDM-CapstoneProject
 Capstone Business Data Management Project done under IIT Madras
 
 ## Overview
 This repository contains the project work completed as part of the B.S. in Data Science and Applications program, specifically for the course "Business Data Management." The project involved collaborating with a local business to address their operational challenges using data analysis.
 
-- **Roll no.**: 21F1005923
+- **Name**: Aditya Jaiswal
+- **Roll no.**: 22f3002960
 
 ## Project Description
 Students enrolled in this course were required to partner with a local business and apply data analysis techniques to help solve real-world business problems. It is important to note that only primary data collection was allowed for this project.
@@ -49,5 +50,3 @@ Here is an overview of the submission phases and their respective evaluation cri
 - Presentation using Google Slides or PowerPoint (max 10 slides)
 - Evaluated for 100 marks, scaled down to 20
 - Cumulative score of 50/100 needed to pass the course
-
-For further details, please refer to the respective project documents in the "BDM Capstone Project Submitted Files" folder.
